@@ -6,3 +6,4 @@ Project for Microsoft Media Center integration with IPTV providers
 The first step is to examind the Amino Box properties. 
 
 Great I will be happy to help with this project.
+This should ix issue #1
