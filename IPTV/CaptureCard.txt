@@ -1,3 +1,3 @@
 Here we need to list all the capture cards that will work with MCE
 Let's have a look at ht HomeRun HD.
-I will add this line and see if it can track the time of 130 min.
+I will add this line and see if it can track the time of 181 min.
