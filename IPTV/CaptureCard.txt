@@ -1,8 +1,9 @@
 Here we need to list all the capture cards that will work with MCE
-Let's have a look at ht HomeRun HD.
+Let's have a look at the HomeRun HD.
+
+All the lines below are for testing the toggl program.
 I will add this line and see if it can track the time of 181 min.
 Trying 10 min
 Trying one more time Jan the 9th right after lunch t:33
 Trying again t:13 
 Trying again t:11
-I was only adding this line to see git status change
